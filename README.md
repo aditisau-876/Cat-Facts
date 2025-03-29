@@ -1,2 +1,2 @@
 # Cat-Facts
-Gen AI 101 
+Gen AI 101 workshop
